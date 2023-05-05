@@ -2,4 +2,8 @@
 
 ## Description
 
-- Ejemplo sencillo de escala de Grises y Blanco/Negro en C#
+- Ejemplo sencillo de como pasar una imagen a escala de Grises y Blanco/Negro
+
+## Language
+
+- C#
